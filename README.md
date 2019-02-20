@@ -1,0 +1,2 @@
+# Titanic-analysis-with-python
+In this analysis i will analyze the Titanic data using Python ,Pandas ,Matplotlib, Numpy to create attractive Visualizations that will inform us about the survival dynamics among the passengers based on Gender , Age , Class who happened to be on the infamous Titanic on it's maiden voyage. There is a sharp skew in favour of the female passengers who were on-board compared to the male passengers and the data reflects the same.
